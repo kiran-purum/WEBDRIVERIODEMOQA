@@ -1,0 +1,15 @@
+{
+    "textBoxInfo": {
+        "fullName": "KIRANKALYAN",
+        "currentAddress": "Madanapalle",
+        "permanentAddress": "Madanapalle"
+    },
+    "formInfo": {
+        "f_Name": "KIRANKALYAN",
+        "l_Name": "PURUM",
+        "e_Age": 25,
+        "e_Salary": 20068,
+        "e_Department": "TESTING ENGINEER"
+    },
+    "setSalary": 26500
+}
